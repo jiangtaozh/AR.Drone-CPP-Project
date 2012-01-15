@@ -1,11 +1,8 @@
 /*******************************************************************************
 
-                     Copyright(c) by Ericsson Technologes
+                     Copyright(c) by Upstart Technologes
 
-All rights reserved. No part of this document may  be  reproduced  in  any  way,
-or  by  any means, without the prior written permission of Ericsson Technologies.
-
-                  Licensed to Ericsson Technologies(tm) 2009
+You can modify or publish all the source code under the license of GPLv2.
 
 Description:
 
